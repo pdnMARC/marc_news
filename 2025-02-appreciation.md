@@ -1,6 +1,6 @@
 ---
 title: AI Appreciation Day
-date: 2025-02-10
+date: 10-02-2025
 cover: ./cover_photos/AI_Apreciation_day.jpg
 short: >
     The Multidisciplinary AI Research Centre (MARC) at the University of Peradeniya, in collaboration with the Department of Electrical and Electronic Engineering (DEEE), the Department of Manufacturing and Industrial Engineering (DMIE), proudly announces a landmark achievement. Our team has been named as the National Winner in the Best Innovative Product in the Healthtech category, a high-demand AI and software application area, at the prestigious SLASSCOM Sri Lanka, National Ingenuity Awards 2025. This open competition, welcoming universities, innovators, companies, and industries across the nation, saw a group of dedicated undergraduates outperform corporate contenders to secure this esteemed recognition.
