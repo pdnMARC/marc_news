@@ -1,0 +1,21 @@
+{
+  "_comment": "Question titles of the news form. The response sheet uses them as column headings, so the form (setup.gs) and the sync script (scripts/form-sync.mjs) must use the same text. Change them together.",
+  "timestamp": "Timestamp",
+  "submitter": "Email address",
+  "action": "What would you like to do?",
+  "actionNew": "Post a new article",
+  "actionChange": "Change a published article",
+  "article": "Link to the article (changes only)",
+  "title": "Title",
+  "date": "Date of the news (YYYY-MM-DD)",
+  "short": "Summary",
+  "body": "Article text",
+  "cover": "Cover photo",
+  "photos": "More photos",
+  "photoDescriptions": "Descriptions of the other photos",
+  "vacancy": "Is this a vacancy or a call for applications?",
+  "vacancyYes": "Yes: also list it on the Vacancies page",
+  "vacancyNo": "No",
+  "deadline": "Application deadline (YYYY-MM-DD)",
+  "apply": "Application link or email address"
+}

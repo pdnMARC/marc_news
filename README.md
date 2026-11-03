@@ -35,6 +35,8 @@ There are two different ways to add news to the MARC website:
 
 Use Markdown articles when you want a full news page with a title, summary, optional cover photo, and full article body.
 
+**No GitHub account?** Use the **news form** instead (ask a maintainer for the link). Every night at 00:00 Sri Lanka time, new responses become pull requests here with the article and its photos, ready for review. It can also post vacancies and correct published articles. Setup and review: [google-form/README.md](google-form/README.md).
+
 Use the Google Sheet when you want a shorter social/news update that links to an external post such as Facebook, LinkedIn, a website article, or Twitter.
 
 ## :newspaper: Option 1: Markdown news articles in this repository
